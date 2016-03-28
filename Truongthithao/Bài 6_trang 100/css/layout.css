@@ -1,0 +1,48 @@
+#container{
+	width: 885px;
+	min-height: 500px;
+	background-color:#ffff90;
+	margin:auto;
+}
+header{
+min-height: 100px;
+background-color:aaff55;
+
+	
+}
+nav{
+	min-height: 50px;
+	background-color:#11ff43;
+	
+}
+#content{
+	min-height: 300px;
+	background-color:#eee;
+	padding:20px 15px;
+}
+#recycle {
+	min-height:300px;
+	width:225px;
+	
+	float:left;
+	padding:0 10px;
+	margin-right:20px;
+	box-sizing:border-box;
+	background-color:#ff00ff;
+	
+	
+}
+.product{
+	min-height:300px;
+	width:225px;
+	float:left;
+	margin-right:20px;
+	background-color:pink;
+}
+footer{
+	background-color:#eee11;
+	min-height:100px;
+	
+}	
+	
+	
